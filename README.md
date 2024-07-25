@@ -65,24 +65,19 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
 
-# Website-Troublemaker
+# Website-Latopia
 
-_Troublemaker_ merupakan toko fashion yang menawarkan koleksi trendi dan unik untuk mereka yang tidak takut tampil beda. Kami menyediakan berbagai pilihan atasan, topi, dan outwear jacket berkualitas tinggi dengan harga terjangkau. Nikmati pengalaman belanja mudah melalui online store kami dan dapatkan layanan pelanggan yang ramah.
+Latopia merupakan website e-commerce untuk membeli bunga
 
 ## Tema
 
 E-Commerce
-
-## Demo
-
--   http://troublemaker.sukisushi.works
 
 ## Fitur
 
 -   Login & register
 -   Semua produk
 -   Detail produk
--   Riwayat pembelian
 -   Cart
 -   Checkout
 
@@ -96,17 +91,4 @@ E-Commerce
 ### Backend :
 
 -   Laravel
--   MySQL
 -   Midtrans
-
-## Cara Run Project
-
-1. Clone project
-2. cp .env.example .env
-3. composer install
-4. siapkan mysql dan midtrans
-5. run php artisan migrate
-6. buka dua terminal
-7. di satu terminal run php artisan serve
-8. di satunya lagi run npm run dev
-9. buka http://127.0.0.1:8000
